@@ -1,0 +1,28 @@
+name: Legends of theCelts
+favicon: null
+layout_spectrum: 0.6027007906232029
+typography_spectrum: 0.2085151863284409
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.296002872986719
+  lightness: 0.6832348487805575
+  saturation: 0.6993478999938816
+  rhythmicContrast: 0.24531440739519894
+purpose: []
